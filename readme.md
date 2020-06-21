@@ -1,6 +1,6 @@
 # Project Title
 
-Full Robotic Body
+Full Robotic Body with Camera Movements
 
 # Implementation
 
@@ -24,7 +24,15 @@ Add some keymaps to move the new fingers
 
 ![Body Building](tasknw3.png)
 
+![down](down.png)
 
+![up](up.png)
+
+![Vertical](vertical.png)
+
+![Zoom In](zoomin.png)
+
+![Zoom Out](zoomout.png)
 
 
 
